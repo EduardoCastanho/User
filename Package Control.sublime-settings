@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Boxy Theme",
+		"Boxy Theme Addon - Font Face",
+		"BracketHighlighter",
+		"Colorsublime",
+		"Dictionaries",
+		"DocBlockr",
+		"LaTeXTools",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-json"
+	],
+	"repositories":
+	[
+		"https://github.com/titoBouzout/Dictionaries"
+	]
+}
